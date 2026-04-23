@@ -1,0 +1,13 @@
+flask
+flask-cors
+opencv-python
+pytesseract
+scikit-learn==1.6.1
+tensorflow
+pandas
+numpy
+statsmodels
+supabase
+Pillow
+joblib
+python-dotenv
